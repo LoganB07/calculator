@@ -1,6 +1,4 @@
-* {
-    border: solid red 2px;
-}
+
 
 body {
     background-color: rgb(47, 47, 47);
@@ -24,6 +22,7 @@ p {
     height: 65vh;
     display: flex;
     flex-direction: column;
+    border-radius: 10%;
 }
 
 #expression {
